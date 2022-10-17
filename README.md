@@ -5,7 +5,11 @@
 ### Project 1: Smart Water Bottle
 
 
-**Sketches:** 
+**Sketches:**   
+![image](https://user-images.githubusercontent.com/43217465/196077949-3c5f57d9-7e77-40a8-afee-df12cc27ad31.png)  
+![image](https://user-images.githubusercontent.com/43217465/196077878-36cd3b87-8801-4547-8fa0-c43e481d80ff.png)
+![image](https://user-images.githubusercontent.com/43217465/196078051-3effa21a-ac4a-4dde-88ee-41e11daf9e49.png)
+
 
 **Requirements and Interview Findings:**   
 At first, the list  of requirements for the water bottle were very long and included many features that were very unnecessary. By interviewing potential users, we were able to greatly refine our list of goals and prioritize feautures.  The most helpful questions were "What do you wish your water bottle could do that it currently doesn’t?" and "What experience have you had with smart products? What issues have you had? What did you like?". The users agreed that tracking water intake was the number one thing that they wished their curret water bottle could do. They also expressed that they would want to know when they need to clean their water bottle, have easy to charge and long-lasting products, and simple and intuitive products. My final list of requirements were based on the goals for my water bottle were for it to display basic information such as date and time and daily hydration goal progress, and have all of the more long-term settings such as age and weight are controlled from the app.  
