@@ -6,9 +6,12 @@
 
 
 **Sketches:**   
-![image](https://user-images.githubusercontent.com/43217465/196077949-3c5f57d9-7e77-40a8-afee-df12cc27ad31.png)  
-![image](https://user-images.githubusercontent.com/43217465/196077878-36cd3b87-8801-4547-8fa0-c43e481d80ff.png)
-![image](https://user-images.githubusercontent.com/43217465/196078051-3effa21a-ac4a-4dde-88ee-41e11daf9e49.png)
+<img width="621" alt="image" src="https://user-images.githubusercontent.com/43217465/196078337-a264eef5-d83c-4163-96a2-d1e9d2e785ab.png">
+<img width="618" alt="image" src="https://user-images.githubusercontent.com/43217465/196078401-18b84401-320a-4a0b-861c-b525e7974fc0.png">
+<img width="611" alt="image" src="https://user-images.githubusercontent.com/43217465/196078480-11ccd982-6f4a-4e0b-bf1c-fc960fbe355a.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/43217465/196078570-32c42b3d-f1b0-4bd0-b5dc-cb36b9149391.png">
+<img width="618" alt="image" src="https://user-images.githubusercontent.com/43217465/196078659-9e91123f-8d2d-43df-83ac-5c153458bcaa.png">
+
 
 
 **Requirements and Interview Findings:**   
