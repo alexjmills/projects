@@ -2,10 +2,10 @@
 **User Interface 1**
 
 
-**Project 1: Smart Water Bottle**
+###Project 1: Smart Water Bottle**
 
 
-### Sketches:
+** Sketches:
 -requirements and interview findings
 At first, the list  of requirements for the water bottle were very long and included many features that were very unnecessary. By interviewing potential users, we were able to greatly refine our list of goals and prioritize feautures.  The most helpful questions were "What do you wish your water bottle could do that it currently doesn’t?" and "What experience have you had with smart products? What issues have you had? What did you like?". The users agreed that tracking water intake was the number one thing that they wished their curret water bottle could do. They also expressed that they would want to know when they need to clean their water bottle, have easy to charge and long-lasting products, and simple and intuitive products. My final list of requirements for my water bottle were for it to display basic information such as date and time and daily hydration goal progress, and have all of the more long-term settings such as age and weight are controlled from the app.
 
