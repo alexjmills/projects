@@ -11,20 +11,20 @@
 At first, the list  of requirements for the water bottle were very long and included many features that were very unnecessary. By interviewing potential users, we were able to greatly refine our list of goals and prioritize feautures.  The most helpful questions were "What do you wish your water bottle could do that it currently doesn’t?" and "What experience have you had with smart products? What issues have you had? What did you like?". The users agreed that tracking water intake was the number one thing that they wished their curret water bottle could do. They also expressed that they would want to know when they need to clean their water bottle, have easy to charge and long-lasting products, and simple and intuitive products. My final list of requirements were based on the goals for my water bottle were for it to display basic information such as date and time and daily hydration goal progress, and have all of the more long-term settings such as age and weight are controlled from the app.  
 
 Product Assumptions:
-The water bottle will have a sensor that measures the water level and temperature.
-The bottle will contain a temperature control system to heat or cool your beverage as desired.
-Bluetooth and connectivity to smart watches will be built-in.
-The bottle will be made from easy to clean, dishwasher-safe materials.
-All electronic components will be water-proof and dishwasher-safe.  
+- The water bottle will have a sensor that measures the water level and temperature.  
+- The bottle will contain a temperature control system to heat or cool your beverage as desired.  
+- Bluetooth and connectivity to smart watches will be built-in.  
+- The bottle will be made from easy to clean, dishwasher-safe materials.  
+- All electronic components will be water-proof and dishwasher-safe.    
 
 UI Design Requirements:
-Water level must be easy to check - can be immediately displayed to the user when UI is activated 
-The user will be reminded when they need to drink water
-Track and update user on their hydration level
-Notify user when bottle needs to be cleaned
-Allow user easy access to check battery level and notify user when the bottle needs charging
-Only information relevant to a user’s current hydration level will be displayed on the bottle -  all historic data will be saved on related app
-Other devices, such as phone and fitness app, will sync to bottle and simultaneously track hydration goal progress and notify user
+- Water level must be easy to check - can be immediately displayed to the user when UI is activated   
+- The user will be reminded when they need to drink water. 
+- Track and update user on their hydration level 
+- Notify user when bottle needs to be cleaned 
+- Allow user easy access to check battery level and notify user when the bottle needs charging 
+- Only information relevant to a user’s current hydration level will be displayed on the bottle -  all historic data will be saved on related app 
+- Other devices, such as phone and fitness app, will sync to bottle and simultaneously track hydration goal progress and notify user  
 
 
 **Interface Description:**      
