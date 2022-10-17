@@ -11,7 +11,7 @@
 <img width="611" alt="image" src="https://user-images.githubusercontent.com/43217465/196078480-11ccd982-6f4a-4e0b-bf1c-fc960fbe355a.png">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/43217465/196078570-32c42b3d-f1b0-4bd0-b5dc-cb36b9149391.png">
 <img width="618" alt="image" src="https://user-images.githubusercontent.com/43217465/196078659-9e91123f-8d2d-43df-83ac-5c153458bcaa.png">
-
+Note: In the final design implementation, I decide to make the screen vertical along the side of the bottle instead of wrapped around the top.
 
 
 **Requirements and Interview Findings:**   
